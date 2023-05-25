@@ -1,0 +1,9 @@
+Oyun 10x10 boyutlarında bir tahta üzerinde oynanır. 
+İlk oyuncu tahtaya girdiği koordinatlarla 3 atıcı taşı ve 1 siyah taş yerleştirir. 
+İkinci oyuncu tahtaya girdiği koordinatlarla 4 atıcı taşı ve 1 beyaz taş yerleştirir. 
+Oyuncular sırayla hamle yaparlar, ilk hamle Siyah tarafından yapılır.
+Her hamlede, oyuncu istediği atıcı taşını seçer ve bunu hareket ettirir.Hareket ettirme kuralı ise şöyle yukarı aşağı sağ sol ve çapraz olmak üzere gidebileceği hat üzerinde engelle karşılaşıncaya kadar seçilebilir.
+Ardından, hareket ettirilen atıcı taşının konumuna göre  yukarı aşağı sağ sol ve çapraz olmak üzere gidebileceği hat üzerinde engelle karşılaşıncaya kadar seçebileceği bir yere siyah taş yerleştirir.
+Daha sonra beyaza sıra geçer ve o da aynı hamleleri yapar.
+Oyunun amacı atıcıların etrafını yukarı aşağı sağ sol ve çapraz olarak 1 karelik olarak kaplamaktır. Atıcının etrafı kaplandığında beyaz ve siyah taş çokluğuna göre o atıcı beyazların ya da siyahların olur.
+Bütün atıcılar ele geçirilince oyun biter.
